@@ -1,7 +1,5 @@
 # pahl
 Productivity Agent Helper Library 
-<<<<<<< HEAD
-=======
 
 # AI Email Assistant Deployment Guide
 
@@ -164,4 +162,3 @@ service cloud.firestore {
     *   Implementing robust input validation to prevent security vulnerabilities.
 *   **Cost:** Be aware of the costs associated with using Google Cloud Functions, Firestore, and other Google Cloud services.
 *   **Scalability:** Google Cloud Functions can scale automatically to handle increased traffic. However, you should monitor your application's performance and adjust resources as needed.
->>>>>>> b0c07b6 (Initial commit using Goose with Gemini)
