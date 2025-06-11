@@ -48,10 +48,10 @@ def briefme_command():
                 "type": "section",
                 "text": {
                     "type": "mrkdwn",
-                    "text": f"*From:* Test Sender
+                    "text": f"""*From:* Test Sender
 *Subject:* Test Subject
 *Summary:* {summary['summary']}
-*Actions:* {', '.join(summary['actions'])}"
+*Actions:* {', '.join(summary['actions'])}"""
                 },
                 "accessory": {
                     "type": "button",
